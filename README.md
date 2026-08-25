@@ -29,6 +29,8 @@ Je transforme des boutiques Shopify en systèmes de croissance mesurables : exp�
 | --- | --- |
 | [**Commerce Agent Protocol**](https://github.com/teocomyn/commerce-agent-protocol) | Protocole open source reliant les catalogues e-commerce aux agents d'achat IA. TypeScript, MCP, API et Shopify. |
 | [**EXPERAISE OS**](https://github.com/teocomyn/experaise-os) | Plateforme Shopify multi-tenant qui transforme les données d'une boutique en opportunités de croissance explicables et mesurables. |
+| [**Shopify Performance Playbook**](https://github.com/teocomyn/shopify-performance-playbook) | Méthode publique reliant Core Web Vitals, CRO, accessibilité et patterns Liquid validés par Shopify Theme Check. |
+| [**Shopify Migration Toolkit**](https://github.com/teocomyn/shopify-migration-toolkit) | Runbooks et outils testés pour sécuriser données, redirections, SEO et lancement lors d'une migration vers Shopify. |
 | [**Carbon OS**](https://github.com/teocomyn/Carbon-OS) | Produit local-first avec moteur déterministe, Supabase/RLS, accessibilité, tests et CI/CD. [Démo](https://carbon-os-three.vercel.app). |
 | [**Selected Works**](https://works-teocomyn.vercel.app) | Sélection de produits, expériences web et réalisations pour des marques et entrepreneurs. |
 
